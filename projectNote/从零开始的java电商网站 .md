@@ -1,4 +1,4 @@
-# 从零开始的企业级别java电商网站
+# 从零开始的企业级别java电商网站
 
 > Spring + springMvc+Mybatis
 
@@ -185,3 +185,14 @@ git config --global core.autocrlf false
 
 ## 三:项目初始化
 
+> 包含Maven\jdk\mybatis\mybatis三剑客安装配置,都是简单内容就不记录了
+
+
+
+## 四:用户模块开发
+
+
+
+
+
+
