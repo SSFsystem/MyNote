@@ -191,7 +191,11 @@ git config --global core.autocrlf false
 
 ## 四:用户模块开发
 
-
+> Wiki地址: https://gitee.com/imooccode/happymmallwiki/
+>
+> 笔记网址:https://www.cnblogs.com/chen-chen-chen/p/12295138.html
+>
+> https://www.imooc.com/article/284560
 
 
 
